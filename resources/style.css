@@ -27,6 +27,11 @@ h3 {
   text-align: center;
 }
 
+.navigation {
+  font-size: 18px;
+  color: white;
+}
+
 .footer {
   background-color: dimgrey;
   font-size: 11px;
