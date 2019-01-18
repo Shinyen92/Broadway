@@ -8,6 +8,21 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+
 .banner h1 {
   font-size: 70px;
+}
+
+.content h2{
+  font-size: 32px;
+}
+
+.content {
+  text-align: center;
 }
