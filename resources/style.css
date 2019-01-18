@@ -26,3 +26,9 @@ h3 {
 .content {
   text-align: center;
 }
+
+.footer {
+  background-color: dimgrey;
+  font-size: 11px;
+  color: white;
+}
